@@ -1,0 +1,1 @@
+include ':app', ':opendronesimulatorapi2', ':opendrnsmltr', ':opendrnsmltrapi'

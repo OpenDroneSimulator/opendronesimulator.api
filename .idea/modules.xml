@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OpenDroneSimulatorAPI.iml" filepath="$PROJECT_DIR$/OpenDroneSimulatorAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opendrnsmltr/opendrnsmltr.iml" filepath="$PROJECT_DIR$/opendrnsmltr/opendrnsmltr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opendrnsmltrapi/opendrnsmltrapi.iml" filepath="$PROJECT_DIR$/opendrnsmltrapi/opendrnsmltrapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opendronesimulatorapi2/opendronesimulatorapi2.iml" filepath="$PROJECT_DIR$/opendronesimulatorapi2/opendronesimulatorapi2.iml" />
+    </modules>
+  </component>
+</project>
